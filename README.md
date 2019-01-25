@@ -1,3 +1,5 @@
+## Introduction 
+
 This is the project repository containing a extensive suite of tools for the design of NoCs for heterogeneous 3D SoCs. We provide:
 - A lightweight and efficient implementation of a 3D NoC router 
 - A NoC simulator with support for heterogeneous 3D SoCs. In includes a high-level model of the router.
@@ -5,7 +7,7 @@ This is the project repository containing a extensive suite of tools for the des
 
 You can download the resources via this repo using a recursive git clone (we linked the subprojects via git-submodules) or directly on the individual repositories.
 
-## Introduction to NoCs for heterogeneous 3D SoCs
+## NoCs for heterogeneous 3D SoCs
 
 New manufacturing methods enable the production of heterogeneous 3D System-on-Chips (3D SoCs), in which dies, manufactured in disparate technology nodes, are stacked. Heterogeneity is one of the most promising paradigms to combine sensing and processing in a single 3D chip. For instance, it is possible to integrate sensors, analog-digital conversion and digital processing, which have different and even contradicting requirements to technology. Communication architectures, which use the advantages of heterogeneity, have not been considered so far. We propose dedicated 3D Networks-on-chips that target heterogeneous 3D SoCs and further exploit the specific properties of silicon dies in disparate technologies. 
 
