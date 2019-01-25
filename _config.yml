@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Heterogeneous 3D-NoCs
 description: Networks-on-Chips for heterogeneous 3D System-on-Chips
 logo: https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/docs/figs/heterogeneous3DNoC.png
+show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
