@@ -43,6 +43,14 @@ IEEE, 2017, S. 1–8. ISBN: 978-1-5386-3344-1. DOI: 10.1109/ReCoSoC.2017.8016143
 - Joseph, J.M., L. Bamberg, G. Krell, I. Hajjar, A. García-Oritz und T. Pionteck. „Specification of Simulation Models for NoCs in Heterogeneous 3D SoCs“. In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip (2018), S. 1–8
 - T. Drewes, Joseph, J.M. und T. Pionteck. „An FPGA-based prototyping framework for Networks-on-Chip“. In: International Conference on ReConFigurable and FPGAs. IEEE, 2017, S. 1–7. DOI: 10.1109/RECONFIG.2017.8279775
 - L. Bamberg, Joseph, J.M., R. Schmidt, T. Pionteck und A. García-Oritz. „Coding-aware Link Energy Estimation for 2D and 3D Networks-on-Chip with Virtual Channels“. In: International Symposium on Power and Timing Modeling, Optimization and Simulation (2018), S. 222–228
+- Lennart Bamberg and Alberto Garcia-Ortiz. "Exploiting Temporal Misalignment to Optimize the Interconnect Performance for 3D Integration" 28th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Juli 2-4 2018, Costa Brava (Spain), IEEE DOI: 10.1109/PATMOS.2018.8464172
+- Lennart Bamberg, Robert Schmidt and Alberto Garcia-Ortiz. "Low-Power Coding Approach for 3D Interconnects" 55th Design Automation Conference (DAC), June 24-28 2018, San Fransisco (California), IEEE/ACM DOI: 10.1145/3195970.3196010
+- Lennart Bamberg, Amir Najafi and Alberto Garcia-Ortiz. "Edge Effect aware Low-Power Crosstalk Avoidance Technique for 3D Integration" Integration, the VLSI Journal, 2018, in press, ELSEVIER DOI: 10.1016/j.vlsi.2018.03.008
+- Lennart Bamberg, Amir Najafi and Alberto Garcia-Ortiz. "Edge Effects on the TSV Array Capacitances and their Performance Influence" Integration, the VLSI Journal, vol. 61, pp. 1-10, March 2018, ELSEVIER DOI: 10.1016/j.vlsi.2017.10.003
+- Lennart Bamberg and Alberto Garcia-Ortiz. "High-Level Energy Estimation for Submicrometric TSV Arrays" IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 25, no. 10, pp. 2856-2866, Oct. 2017, IEEE DOI: 10.1109/TVLSI.2017.2713601 
+- Lennart Bamberg, Amir Najafi  and Alberto Garcia-Ortiz. "Edge Effect Aware Crosstalk Avoidance Technique for 3D Integration". 27th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Sep. 25-27 2017, Thessaloniki (Greece), ©IEEE
+DOI: 10.1109/PATMOS.2017.8106994 (Awarded Best Paper) 
+
 
 ## People 
 The following people participated:
