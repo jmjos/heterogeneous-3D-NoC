@@ -13,7 +13,11 @@ New manufacturing methods enable the production of heterogeneous 3D System-on-Ch
 
 ## Tools, designs, models, etc.
 
-This site collects tools, models, hardware designs for NoCs for heterogeneous 3D SoCs.
+This site collects tools, models, hardware designs for NoCs for heterogeneous 3D SoCs. 
+
+### Getting started
+
+Clone all project-related repositories with ```git clone --recursive https://github.com/jmjos/heterogeneous-3D-NoC``` 
 
 ### Simulator
 
