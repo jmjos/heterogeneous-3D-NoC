@@ -5,7 +5,7 @@ This is the project repository containing a extensive suite of tools for the des
 - A NoC simulator with support for heterogeneous 3D SoCs. In includes a high-level model of the router.
 - Design tools for NoCs targeting heterogeneous 3D SoCs.
 
-You can download the resources via this repo using a recursive git clone (we linked the subprojects via git-submodules) or directly on the individual repositories.
+You can download the resources via this repo using a recursive git clone ```git clone --recursive https://github.com/jmjos/heterogeneous-3D-NoC``` or directly on the individual repositories.
 
 ## NoCs for heterogeneous 3D SoCs
 
@@ -29,11 +29,13 @@ A router model will follow soon!
 
 ### Power models
 
-Power models will follow soon!
+We use the power models proposed in Bamberg, L., Amir Najafi  and Garcia-Ortiz, A. "Edge Effect Aware Crosstalk Avoidance Technique for 3D Integration". 27th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Sep. 25-27 2017, Thessaloniki (Greece), ©IEEE DOI: 10.1109/PATMOS.2017.8106994 
+
+Implementations of the models will follow soon.
 
 ### Design algorithms
 
-Algorithms will follow soon!
+The [models](https://github.com/jmjos/A-3D-NoC-DSE) can be used for exact design optimization. Heuristics will be published after publication.
 
 ## Publications
 
