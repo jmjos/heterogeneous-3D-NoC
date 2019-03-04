@@ -37,13 +37,15 @@ Implementations of the models will follow soon.
 
 The [models](https://github.com/jmjos/A-3D-NoC-DSE) can be used for exact design optimization. Heuristics will be published after publication.
 
-## Publications
+## Publications   
+
+We also provide preprints of the publicaitons as long as the publishers permit.
 
 - Joseph, J.M., Blochwitz, C., García-Ortiz, A. und Pionteck, T. "Area and power savings via asymmetric organization of buffers in 3D-NoCs for heterogeneous 3D-SoCs". In: Microprocessors and Microsystems 48 (2017), S. 36–47. ISSN: 0141-9331. DOI: 10.1016/j.micpro.2016.09.011
-- Joseph, J.M. und Pionteck, T. "A cycle-accurate Network-on-Chip simulator with support for abstract task graph modeling". In: International Symposium on System-on-Chip. IEEE, 2014, S. 1–6. ISBN: 978-1-4799-6890-9. DOI: 10.1109/ISSOC.2014.6972440
-- Joseph, J.M., Blochwitz, C., García-Oritz, A. und Pionteck, T. "Area and power savings via buffer reorganization in asymmetric 3D-NoCs for heterogeneous 3D-SoCs". In: Nordic Circuits and Systems Conference. IEEE, 2015, S. 1–4. ISBN: 978-1-4673-6576-5. DOI: 10.1109/NOR-CHIP.2015.7364370
-- Joseph, J.M., Blochwitz, C. und Pionteck, T. "Adaptive allocation of default router paths in Network-on-Chips for latency reduction". In: International Conference on High Performance Computing & Simulation. IEEE, 2016, S. 140–147. ISBN: 978-1-5090-2088-1. DOI: 10.1109/HPCSim.2016.7568328
-- Joseph, J.M., Wrieden, S., Blochwitz, C., García-Oritz, A. und Pionteck, T. "A simulation environment for design space exploration for asymmetric 3D-Network-on-Chip". In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip. IEEE, 2016, S. 1–8. ISBN: 978-1-5090-2520-6. DOI: 10.1109/ReCoSoC.2016.7533908
+- Joseph, J.M. und Pionteck, T. "A cycle-accurate Network-on-Chip simulator with support for abstract task graph modeling". In: International Symposium on System-on-Chip. IEEE, 2014, S. 1–6. ISBN: 978-1-4799-6890-9. DOI: 10.1109/ISSOC.2014.6972440 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2014.pdf)
+- Joseph, J.M., Blochwitz, C., García-Oritz, A. und Pionteck, T. "Area and power savings via buffer reorganization in asymmetric 3D-NoCs for heterogeneous 3D-SoCs". In: Nordic Circuits and Systems Conference. IEEE, 2015, S. 1–4. ISBN: 978-1-4673-6576-5. DOI: 10.1109/NOR-CHIP.2015.7364370 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2015.pdf)
+- Joseph, J.M., Blochwitz, C. und Pionteck, T. "Adaptive allocation of default router paths in Network-on-Chips for latency reduction". In: International Conference on High Performance Computing & Simulation. IEEE, 2016, S. 140–147. ISBN: 978-1-5090-2088-1. DOI: 10.1109/HPCSim.2016.7568328 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2016.pdf)
+- Joseph, J.M., Wrieden, S., Blochwitz, C., García-Oritz, A. und Pionteck, T. "A simulation environment for design space exploration for asymmetric 3D-Network-on-Chip". In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip. IEEE, 2016, S. 1–8. ISBN: 978-1-5090-2520-6. DOI: 10.1109/ReCoSoC.2016.7533908 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2016b.pdf)
 - Joseph, J.M., L. Bamberg, Wrieden, S., Ermel, D., García-Oritz, A. und Pionteck, T. "Design method for asymmetric 3D interconnect architectures with high level models". In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip. IEEE, 2017, S. 1–8. ISBN: 978-1-5386-3344-1. DOI: 10.1109/ReCoSoC.2017.8016143
 - Joseph, J.M., L. Bamberg, Krell, G., Hajjar, I., García-Oritz, A. und Pionteck, T. "Specification of Simulation Models for NoCs in Heterogeneous 3D SoCs". In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip (2018), S. 1–8
 - Drewes, T. Joseph, J.M. und Pionteck, T. "An FPGA-based prototyping framework for Networks-on-Chip". In: International Conference on ReConFigurable and FPGAs. IEEE, 2017, S. 1–7. DOI: 10.1109/RECONFIG.2017.8279775
