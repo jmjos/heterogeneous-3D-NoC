@@ -35,7 +35,7 @@ Implementations of the models will follow soon.
 
 ### Design algorithms
 
-The [models](https://github.com/jmjos/A-3D-NoC-DSE) can be used for exact design optimization. Heuristics will be published after publication.
+The [models](https://github.com/jmjos/A-3D-NoC-DSE) can be used for exact design optimization. Source code to the heuristics will be made avaiable after publication.
 
 ## Publications   
 
