@@ -81,8 +81,9 @@ The following people participated:
 - [Jan Moritz Joseph](https://github.com/jmjos): Simulation tools and design optimization
 - [Prof. Dr.-Ing. Alberto García-Ortiz](www.ids.uni-bremen.de/agarcia.html)
 - [Prof. Dr.-Ing. Thilo Pionteck](http://www.iikt.ovgu.de/pionteck.html)
-- Sven Wrieden
 - Imad Hajjar
+- Dominik Ermel
+- Sven Wrieden
 
 ## Acknolegdements
 
