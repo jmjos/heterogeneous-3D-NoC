@@ -29,7 +29,7 @@ A router model will follow soon!
 
 ### Power models
 
-We use the power models proposed in Bamberg, L., Amir Najafi  and Garcia-Ortiz, A. "Edge Effect Aware Crosstalk Avoidance Technique for 3D Integration". 27th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Sep. 25-27 2017, Thessaloniki (Greece), ©IEEE DOI: 10.1109/PATMOS.2017.8106994 
+We use the power models proposed in Bamberg, Lennart, and Alberto Garcia-Ortiz. "High-level energy estimation for submicrometric TSV arrays." IEEE Transactions on Very Large Scale Integration (VLSI) Systems25.10 (2017): 2856-2866. and Bamberg, Lennart, Amir Najafi, and Alberto García-Ortiz. "Edge effects on the TSV array capacitances and their performance influence." Integration 61 (2018): 1-10. 
 
 Implementations of the models will follow soon.
 
@@ -44,7 +44,7 @@ We also provide preprints of the publicaitons as long as the publishers permit.
 ### 2018
 
 - Bamberg, L., Joseph, J.M., Schmidt, R., Pionteck, T. und García-Oritz, A. "Coding-aware Link Energy Estimation for 2D and 3D Networks-on-Chip with Virtual Channels". In: International Symposium on Power and Timing Modeling, Optimization and Simulation (2018), S. 222–228
-- Bamberg, L. and Garcia-Ortiz, A. "Exploiting Temporal Misalignment to Optimize the Interconnect Performance for 3D Integration" 28th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Juli 2-4 2018, Costa Brava (Spain), IEEE DOI: 10.1109/PATMOS.2018.8464172
+- Bamberg, L. and Garcia-Ortiz, A. "Exploiting Temporal Misalignment to Optimize the Interconnect Performance for 3D Integration" 28th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Juli 2-4 2018, Costa Brava (Spain), IEEE DOI: 10.1109/PATMOS.2018.8464172 (Awarded best paper)
 - Bamberg, L., Schmidt, R. and Garcia-Ortiz, A. "Low-Power Coding Approach for 3D Interconnects" 55th Design Automation Conference (DAC), June 24-28 2018, San Fransisco (California), IEEE/ACM DOI: 10.1145/3195970.3196010
 - Bamberg, L., Najafi, A. and Garcia-Ortiz, A. "Edge Effect aware Low-Power Crosstalk Avoidance Technique for 3D Integration" Integration, the VLSI Journal, 2018, ELSEVIER DOI: 10.1016/j.vlsi.2018.03.008
 - Bamberg, L., Najafi, A. and Garcia-Ortiz, A. "Edge Effects on the TSV Array Capacitances and their Performance Influence" Integration, the VLSI Journal, vol. 61, pp. 1-10, March 2018, ELSEVIER DOI: [10.1016/j.vlsi.2017.10.003](https://doi.org/10.1016/j.vlsi.2017.10.003)
