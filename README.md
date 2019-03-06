@@ -66,7 +66,7 @@ We also provide preprints of the publicaitons as long as the publishers permit.
 - Joseph, J.M., Blochwitz, C. und Pionteck, T. "Adaptive allocation of default router paths in Network-on-Chips for latency reduction". In: International Conference on High Performance Computing & Simulation. IEEE, 2016, S. 140–147. ISBN: 978-1-5090-2088-1. DOI: 10.1109/HPCSim.2016.7568328 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2016.pdf)
 - Joseph, J.M., Wrieden, S., Blochwitz, C., García-Oritz, A. und Pionteck, T. "A simulation environment for design space exploration for asymmetric 3D-Network-on-Chip". In: International Symposium on Reconfigurable Communication-centric Systems-on-Chip. IEEE, 2016, S. 1–8. ISBN: 978-1-5090-2520-6. DOI: 10.1109/ReCoSoC.2016.7533908 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2016b.pdf)
 
-### 2014
+### 2015
 
 - Joseph, J.M., Blochwitz, C., García-Oritz, A. und Pionteck, T. "Area and power savings via buffer reorganization in asymmetric 3D-NoCs for heterogeneous 3D-SoCs". In: Nordic Circuits and Systems Conference. IEEE, 2015, S. 1–4. ISBN: 978-1-4673-6576-5. DOI: 10.1109/NOR-CHIP.2015.7364370 [Preprint](https://github.com/jmjos/heterogeneous-3D-NoC/raw/master/publications/Joseph2015.pdf)
 
