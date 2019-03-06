@@ -47,8 +47,8 @@ We also provide preprints of the publicaitons as long as the publishers permit.
 - Bamberg, L. and Garcia-Ortiz, A. "Exploiting Temporal Misalignment to Optimize the Interconnect Performance for 3D Integration" 28th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), Juli 2-4 2018, Costa Brava (Spain), IEEE DOI: 10.1109/PATMOS.2018.8464172
 - Bamberg, L., Schmidt, R. and Garcia-Ortiz, A. "Low-Power Coding Approach for 3D Interconnects" 55th Design Automation Conference (DAC), June 24-28 2018, San Fransisco (California), IEEE/ACM DOI: 10.1145/3195970.3196010
 - Bamberg, L., Najafi, A. and Garcia-Ortiz, A. "Edge Effect aware Low-Power Crosstalk Avoidance Technique for 3D Integration" Integration, the VLSI Journal, 2018, ELSEVIER DOI: 10.1016/j.vlsi.2018.03.008
-- Bamberg, L., Najafi, A. and Garcia-Ortiz, A. "Edge Effects on the TSV Array Capacitances and their Performance Influence" Integration, the VLSI Journal, vol. 61, pp. 1-10, March 2018, ELSEVIER DOI: (10.1016/j.vlsi.2017.10.003)[https://doi.org/10.1016/j.vlsi.2017.10.003]
-- Joseph, J.M.,Bamberg, L.,Krell, G., Hajjar, I., Garcia-Oritz, A., Pionteck, T. "Specification of Simulation Models for NoCs in Heterogeneous 3D SoCs", 2018 13th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), IEEE, 2018, Lille (France), DOI (10.1109/ReCoSoC.2018.8449387)[https://doi.org/10.1109/ReCoSoC.2018.8449387]
+- Bamberg, L., Najafi, A. and Garcia-Ortiz, A. "Edge Effects on the TSV Array Capacitances and their Performance Influence" Integration, the VLSI Journal, vol. 61, pp. 1-10, March 2018, ELSEVIER DOI: [10.1016/j.vlsi.2017.10.003](https://doi.org/10.1016/j.vlsi.2017.10.003)
+- Joseph, J.M., Bamberg, L., Krell, G., Hajjar, I., Garcia-Oritz, A., Pionteck, T. "Specification of Simulation Models for NoCs in Heterogeneous 3D SoCs", 2018 13th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), IEEE, 2018, Lille (France), DOI [10.1109/ReCoSoC.2018.8449387](https://doi.org/10.1109/ReCoSoC.2018.8449387)
 
 
 ### 2017
