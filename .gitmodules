@@ -1,11 +1,3 @@
 [submodule "simulator"]
 	path = simulator
 	url = https://github.com/jmjos/ratatoskr.git
-[submodule "TEMP_link_power"]
-	path = TEMP_link_power
-	url = https://github.com/jmjos/TEMP_link_power
-	branch = master
-[submodule "TEMP_3D_noc_router_impl"]
-	path = TEMP_3D_noc_router_impl
-	url = https://github.com/jmjos/TEMP_3D_noc_router_impl
-	branch = master
